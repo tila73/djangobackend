@@ -1,0 +1,18 @@
+Create virtual environment:
+python -m venv your_virtual_environment_name
+
+Activate virtual environment:
+your_virtual_environment_name\Scripts\activate
+
+Run the following command in your virtual environment:
+pip install -r requirements.txt 
+
+Create database:
+Database Name: votingapp
+
+Superuser:
+username: admin
+password: admin
+email: admin@gmail.com
+
+
